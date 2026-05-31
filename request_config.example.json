@@ -1,0 +1,11 @@
+{
+  "cookies": {
+    "example_cookie_name": "example_cookie_value"
+  },
+  "headers": {
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Referer": "https://univer.dvfu.ru/schedule",
+    "X-Requested-With": "XMLHttpRequest",
+    "User-Agent": "Mozilla/5.0"
+  }
+}
